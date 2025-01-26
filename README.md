@@ -127,11 +127,7 @@ In this project, we use machine learning to predict sales based on key factors i
 ![image](https://github.com/user-attachments/assets/ae43d33c-f1ed-48fa-ac5b-ba2e64364d96)
 
 
-![image](https://github.com/user-attachments/assets/bfa860fd-bbdf-4cfe-9a87-2789c8930c58)
-
-
-
-![image](https://github.com/user-attachments/assets/cda58851-ef7b-415e-8b2a-25a0e866e6fc)
+![image](https://github.com/user-attachments/assets/8ef063fc-e8f2-47f1-ba20-47daef8304e1)
 
 
 ## Results and Insights
